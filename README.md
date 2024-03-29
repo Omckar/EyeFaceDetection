@@ -1,6 +1,6 @@
 # Face and Eye Detection in Python
 
-Install required modules <br>
+<h2>Install required modules </h2><br>
 <ul>
 <li>pip install numpy </li>
 <li>pip install opencv-python</li>
